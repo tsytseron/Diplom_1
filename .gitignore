@@ -77,32 +77,4 @@ fabric.properties
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
 !/htmlcov/
-!/htmlcov/.gitignore
 
-!/htmlcov/class_index.html
-
-!/htmlcov/coverage_html_cb_497bf287.js
-
-!/htmlcov/favicon_32_cb_58284776.png
-
-!/htmlcov/function_index.html
-
-!/htmlcov/index.html
-
-!/htmlcov/keybd_closed_cb_ce680311.png
-
-!/htmlcov/status.json
-
-!/htmlcov/style_cb_718ce007.css
-
-!/htmlcov/z_c68eb0c7512457e4___init___py.html
-
-!/htmlcov/z_c68eb0c7512457e4_bun_py.html
-
-!/htmlcov/z_c68eb0c7512457e4_burger_py.html
-
-!/htmlcov/z_c68eb0c7512457e4_database_py.html
-
-!/htmlcov/z_c68eb0c7512457e4_ingredient_py.html
-
-!/htmlcov/z_c68eb0c7512457e4_ingredient_types_py.html
